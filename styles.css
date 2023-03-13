@@ -1,0 +1,45 @@
+header {
+    text-align: center;
+}
+
+body {
+    background-image: url(./FondoMenu3.png);
+}
+
+h1, h2, h3, p, li {
+    color: white;
+}
+
+h1 {
+    font-family: 'Great Vibes', cursive;
+    font-size: 4rem;
+    padding: 3% 0 1%;
+
+}
+
+h2 {
+    font-family: 'Fredericka the Great', cursive;
+    font-size: 3.2rem;
+    padding: 1% 0; 
+}
+
+h3 {
+    font-family: 'Fredericka the Great', cursive;
+    font-size: 2rem;
+    text-align: center;
+}
+
+li, p {
+    font-family: 'Lora', serif;
+    font-size: 1.2rem;
+    padding: 1% 0;
+}
+
+footer {
+    text-align: center;
+}
+
+img {
+    width:4%;
+    padding-bottom: 2%;
+}

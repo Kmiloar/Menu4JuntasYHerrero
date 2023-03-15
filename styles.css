@@ -27,6 +27,7 @@ h3 {
     font-family: 'Fredericka the Great', cursive;
     font-size: 2rem;
     text-align: center;
+    padding: 5% 0;
 }
 
 li, p {
@@ -42,4 +43,13 @@ footer {
 img {
     width:4%;
     padding-bottom: 2%;
+}
+
+hr {
+    margin: auto;
+    border: dotted 5px;
+    border-top: none;
+    width: 10%;
+    color: white;
+    opacity: 100%;
 }
